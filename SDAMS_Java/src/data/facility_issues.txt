@@ -1,0 +1,6 @@
+FI001,IN002,Mats,Torn tatami mat near entrance,Dojo A,2026-09-03,Resolved,FO002,2026-09-05,Mat replaced
+FI002,IN003,Air-Conditioning,Aircon not cooling,Dojo B,2026-09-28,In Progress,FO002,2026-10-01,Technician booked
+FI003,IN004,Equipment,Speed bag chain broken,Main Hall,2026-10-02,Open,-,-,-
+FI004,IN002,Lighting,Two ceiling lights flickering,Dojo A,2026-10-11,In Progress,FO003,2026-10-13,Waiting for bulbs
+FI005,IN001,Room,Cracked wall mirror,Dojo A,2026-10-15,Open,-,-,-
+FI006,IN003,Room,Leaking roof after rain,Dojo B,2026-08-18,Resolved,FO003,2026-08-25,Roof sealed

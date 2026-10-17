@@ -1,0 +1,11 @@
+C001,IN002,Karate Beginner,Karate,2026-08-10,18:00,19:30,Dojo A,20,80.00,Completed
+C002,IN003,Judo Fundamentals,Judo,2026-08-22,10:00,11:30,Dojo B,15,120.00,Completed
+C003,IN004,MMA Conditioning,MMA,2026-09-20,19:00,20:30,Main Hall,12,150.00,Completed
+C004,IN002,Taekwondo Basics,Taekwondo,2026-09-27,09:00,10:30,Dojo A,20,100.00,Completed
+C005,IN002,Karate Intermediate,Karate,2026-10-08,18:00,19:30,Dojo A,20,80.00,Completed
+C006,IN003,Judo Throws,Judo,2026-10-10,10:00,11:30,Dojo B,15,120.00,Completed
+C007,IN004,MMA Advanced Sparring,MMA,2026-10-25,19:00,21:00,Main Hall,10,200.00,Open
+C008,IN001,Taekwondo Forms,Taekwondo,2026-10-28,09:00,10:30,Dojo A,20,100.00,Open
+C009,IN004,MMA Intro,MMA,2025-12-27,19:00,20:30,Main Hall,12,150.00,Completed
+C010,IN003,Self Defence for Women,Self Defence,2026-11-05,14:00,15:30,Dojo B,20,90.00,Open
+C011,IN001,Karate Kata,Karate,2026-10-30,18:00,19:30,Dojo A,20,80.00,Cancelled

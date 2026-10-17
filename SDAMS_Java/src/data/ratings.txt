@@ -1,0 +1,7 @@
+R001,ST001,IN002,C001,5,Very clear teaching,2026-08-11
+R002,ST003,IN002,C001,4,Good class but started late,2026-08-11
+R003,ST002,IN003,C002,5,Great judo basics,2026-08-23
+R004,ST004,IN002,C004,4,Fun and energetic,2026-09-28
+R005,ST005,IN002,C005,3,Too crowded,2026-10-09
+R006,ST001,IN003,C006,5,Excellent throws practice,2026-10-11
+R007,ST004,IN004,C009,4,Tough but worth it,2025-12-28

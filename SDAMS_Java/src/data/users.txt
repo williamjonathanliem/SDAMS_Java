@@ -1,0 +1,16 @@
+MG001,manager,123,Default Manager,0120000001,Manager
+AD001,admin,123,Default Admin,0120000002,Administrator
+IN001,instructor,123,Default Instructor,0120000003,Instructor
+ST001,Student_Test,123,Default Student,0120000004,Student
+FO001,facilities,123,Default Facilities Officer,0120000005,FacilitiesOfficer
+AO001,attendance,123,Default Attendance Officer,0120000006,AttendanceOfficer
+IN002,kenji,123,Kenji Tanaka,0123456701,Instructor
+IN003,sarah,123,Sarah Lim,0123456702,Instructor
+IN004,rizal,123,Rizal Hamzah,01123456703,Instructor
+FO002,daniel,123,Daniel Wong,0123456704,FacilitiesOfficer
+FO003,aisyah,123,Nur Aisyah,0123456705,FacilitiesOfficer
+ST002,Jonathan,123,Ali Ahmad,0134567801,Student
+ST003,mei,123,Tan Mei Ling,0134567802,Student
+ST004,arjun,123,Arjun Kumar,0134567803,Student
+ST005,farah,123,Farah Nadia,01134567804,Student
+ST006,jason,123,Jason Lee,0134567805,Student

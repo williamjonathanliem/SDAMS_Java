@@ -1,0 +1,12 @@
+EQ001,Tatami Mat,Mats,40,20,Good,Dojo A,2026-09-01
+EQ002,Puzzle Foam Mat,Mats,30,15,Fair,Dojo B,2026-08-20
+EQ003,Heavy Punching Bag,Bags,6,4,Good,Main Hall,2026-07-15
+EQ004,Speed Bag,Bags,3,2,Damaged,Main Hall,2026-10-02
+EQ005,Boxing Gloves 12oz,Gloves,25,15,Good,Equipment Room,2026-09-10
+EQ006,MMA Gloves,Gloves,8,10,Good,Equipment Room,2026-09-10
+EQ007,Karate Gi (M),Uniforms,15,10,Good,Store Room,2026-08-01
+EQ008,Judo Gi (L),Uniforms,5,8,Good,Store Room,2026-08-01
+EQ009,Kick Shield,Pads,12,6,Good,Dojo A,2026-09-05
+EQ010,Focus Mitts,Pads,10,6,Fair,Main Hall,2026-09-05
+EQ011,Headgear,Protective Gear,14,10,Good,Equipment Room,2026-09-15
+EQ012,Shin Guards,Protective Gear,9,10,Good,Equipment Room,2026-09-15
